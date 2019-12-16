@@ -22,7 +22,7 @@ Supplementary File S2.08:	Species observational data collected from clear and st
 
 Supplementary File S2.09:	Species observational data collected from clear and stained specimens for Oryzias latipes.
 
-Supplementary File S2.10:	Data matrix of eighty-five FTSP terms determined to be variable (both present and absent across all species) merged with a study species phylogeny used for ancestral state reconstruction in Mesquite v3.10.
+Supplementary File S2.10:	Data matrix of FTSP terms determined to be variable (both present and absent across all species) merged with a study species phylogeny used for ancestral state reconstruction in Mesquite v3.10.
 
 
  
